@@ -1,5 +1,5 @@
 package isp_solved;
 
-public class Workable {
-
+public interface Workable {
+	void work();
 }

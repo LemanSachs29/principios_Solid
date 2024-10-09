@@ -1,5 +1,5 @@
 package isp_solved;
 
-public class Eatable {
-
+public interface Eatable {
+	void eat();
 }

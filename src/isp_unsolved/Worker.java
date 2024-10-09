@@ -1,5 +1,7 @@
 package isp_unsolved;
 
-public class Worker {
+public interface Worker {
+	void work();
 
+	void eat();
 }
