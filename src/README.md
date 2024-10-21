@@ -1,4 +1,6 @@
+<div align="center">
 # Principios Solid
+</div>
 
 _En este proyecto encontrarás 5 paquetes donde, mediante un ejemplo práctico se trata de aplicar un principio Solid concreto a un código sin refactorizar._
 ## S - Single Responsibility Principle (Principio de Responsabilidad Única): 
