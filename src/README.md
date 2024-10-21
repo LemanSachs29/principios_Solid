@@ -1,5 +1,5 @@
 <div align="center">
-# Principios Solid
+<h1>Principios Solid</h1>
 </div>
 
 _En este proyecto encontrarás 5 paquetes donde, mediante un ejemplo práctico se trata de aplicar un principio Solid concreto a un código sin refactorizar._
